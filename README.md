@@ -1,1 +1,1 @@
-# My-resume
+Personal resume of Yuriy Nabasov
